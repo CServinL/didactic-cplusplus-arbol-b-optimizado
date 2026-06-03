@@ -1,4 +1,7 @@
 # Arboles B*
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-CServinL-ea4aaa?logo=github)](https://github.com/sponsors/CServinL)
+
 Fundamentos - Algoritmos - C++ - Implementación árbol B* (B optimizado)
 
 Implementacion de una clase para Arbol B* (ArbolBStar)
